@@ -1,0 +1,28 @@
+name: Greg@GregMuffler.com
+favicon: null
+layout_spectrum: 0.11134712910279632
+typography_spectrum: 0.6842585606500506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.0559331770054996
+  lightness: 0.48826672742143273
+  saturation: 0.4512031590566039
+  rhythmicContrast: 0.31346209067851305
+purpose: []
